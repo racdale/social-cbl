@@ -1,7 +1,7 @@
 library(tm)
 library(ff)
 
-setwd('~/Sites/Dropbox/social-cbl')
+setwd('~/Dropbox/social-cbl')
 
 sents = readChar('sents.txt', file.info('sents.txt')$size)
 sents = paste('. ',sents,sep='') # att utterance boundary in slot 1
