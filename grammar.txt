@@ -1,0 +1,18 @@
+! first terminal element always reflects topic of convo
+S>a.33|b.33|c.34
+a>aT.0,theT,Na,Va,nl,a.99
+b>bT.0,theT,Nb,Vb,Adj,nl,b.99
+c>cT.0,theT,Nc,Vc,Nc2,nl,c.99
+aT>A
+bT>B
+cT>C
+Na>dog,cat,fish
+Nb>fries,burger,shake
+Nc>car,truck,plane
+Va>eats,licks,runs
+Vb>tastes,seems
+Adj>good,delicious
+Vc>takes,requires
+Nc2>gas,petrol
+nl>XXX
+theT>the
